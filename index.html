@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CAPTCHA Example</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="captcha-container">
+    <form id="captcha-form" action="submit.php" method="post">
+      <label for="captcha">Please solve the math problem to proceed:</label><br>
+      <span id="captcha"></span><br>
+      <input type="text" id="captcha-input" name="captcha-input" required><br>
+      <button type="submit">Submit</button>
+    </form>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
