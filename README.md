@@ -1,7 +1,7 @@
 
 # Simple CAPTCHA System
 
-This repository contains a basic implementation of a CAPTCHA system using JavaScript, Python, PHP, Java, HTML, and CSS.
+This repository contains a basic implementation of a CAPTCHA system using JavaScript, PHP, HTML, and CSS.
 
 🔒 **Disclaimer:** This is a basic implementation of a CAPTCHA system using the provided languages. It's important to note that this example is simplistic and may not provide robust security against automated bots. For a production-level CAPTCHA system, you would need to consider more advanced techniques and possibly integrate with CAPTCHA services like Google reCAPTCHA.
 
@@ -32,9 +32,7 @@ This repository contains a basic implementation of a CAPTCHA system using JavaSc
 ## Languages Used
 
 - JavaScript
-- Python
 - PHP
-- Java
 - HTML
 - CSS
 
